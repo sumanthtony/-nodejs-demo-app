@@ -25,7 +25,7 @@ Following steps taken to complete the task:
 
 <img width="461" height="221" alt="Ref snapshot of dockerhub token" src="https://github.com/user-attachments/assets/999a6593-3265-4bee-8d72-2a845436ae51" />
 
-**===>**Upon successsfully CI/CD pipeline is built **Docker Image** is stored in my **Dockerhub new Repository** and was able to access the application 
+**===>**Upon successsfull CI/CD pipeline is built **Docker Image** is stored in my **Dockerhub new Repository** and was able to access the application 
 
 <img width="491" height="337" alt="Pushed image to dockerhub" src="https://github.com/user-attachments/assets/d56e4887-b033-4669-a50f-43c5de5bfb8d" />
 
