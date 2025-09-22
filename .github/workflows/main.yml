@@ -17,6 +17,11 @@ jobs:
       with:
         node-version: '18'
 
+    - name: Debug file presence
+      run: |
+        ls -l
+        cat package.json || echo "package.json not found"
+
     - name: Install dependencies
       run: | 
          cd nodejs-demo-app
