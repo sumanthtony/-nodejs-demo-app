@@ -31,7 +31,7 @@ Following steps taken to complete the task:
 
 <img width="818" height="358" alt="Debugging " src="https://github.com/user-attachments/assets/816bd276-5b53-4647-ae47-33b11ed6cb9a" />
 
---------------------------------THIS WAS THE FINAL OUTPUT-------------------
+--------------------------------THIS WAS THE FINAL OUTPUT-----------------------------------------------------------
 <img width="383" height="79" alt="Nodejs_output" src="https://github.com/user-attachments/assets/cb4e3e4e-61d7-4ede-bfba-cad0ff64a528" />
 
 
