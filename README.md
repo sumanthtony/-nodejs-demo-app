@@ -34,7 +34,7 @@ Following steps taken to complete the task:
 --------------------------------THIS WAS THE FINAL OUTPUT-----------------------------------------------------------
 
 
-                    <img width="383" height="79" alt="Nodejs_output" src="https://github.com/user-attachments/assets/cb4e3e4e-61d7-4ede-bfba-cad0ff64a528" />
+   <img width="383" height="79" alt="Nodejs_output" src="https://github.com/user-attachments/assets/cb4e3e4e-61d7-4ede-bfba-cad0ff64a528" />
 
 
 
